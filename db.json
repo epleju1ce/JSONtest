@@ -1,6 +1,7 @@
 {
   "bookings": [
-    { "ref": 26134,
+    { 
+     "ref": 26134,
      "hall no.": "2",
      "type": "BORG",
      "hall name": "Borgund",
