@@ -13,6 +13,34 @@
      "departure time": "16:00",
      "pax": 6,
      "table setup": ""
+    },
+{ 
+     "ref": 26134,
+     "hall no": "2",
+     "type": "NORD",
+     "hall name": "Nordkapp",
+     "status": "C",
+     "company": "Finans Norge",
+     "arrival date": "3-jan.",
+     "arrival time": "9:00",
+     "departure date": "3-jan.",
+     "departure time": "16:00",
+     "pax": 6,
+     "table setup": ""
+    },
+{ 
+     "ref": 26134,
+     "hall no": "2",
+     "type": "GAUS",
+     "hall name": "Gaustadtoppen",
+     "status": "C",
+     "company": "KS",
+     "arrival date": "3-jan.",
+     "arrival time": "9:00",
+     "departure date": "3-jan.",
+     "departure time": "16:00",
+     "pax": 6,
+     "table setup": ""
     }
   ]
 }
